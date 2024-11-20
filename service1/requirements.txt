@@ -1,0 +1,10 @@
+Flask==2.2.5
+Werkzeug==2.2.3
+torch==2.3.1
+transformers==4.41.2
+open-clip-torch==2.24.0
+faiss-cpu==1.8.0
+tqdm==4.65.0
+Pillow==10.3.0
+opencv-python-headless==4.10.0.82
+sacremoses
